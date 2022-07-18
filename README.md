@@ -3,7 +3,7 @@
 ## About Me
 
 Estudante de Sistemas de Informação na UNESA - Universidade Estácio de Sá (São Bernardo do Campo, SP). <br />
-Estagiário em análise e desenvolvimento na Target Sistemas.
+Júnior em análise e desenvolvimento na Target Sistemas.
 
 ## Technologies
 
