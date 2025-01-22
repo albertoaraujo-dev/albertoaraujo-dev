@@ -6,9 +6,9 @@ Sistemas de Informação na UNESA - Universidade Estácio de Sá (São Bernardo 
 
 ## Technologies
 
-- Front - End com HTML, CSS, JS
+- Front - End com HTML, CSS, JS, React
 - UI Design com Figma
-- Estudando React e React Native
+- Estudando Next
 - De olho nas tecnologias .net em segredo rs
 
 **Languages and Tools:**
