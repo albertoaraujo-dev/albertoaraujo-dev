@@ -7,7 +7,7 @@ focado em criar soluções inovadoras e eficientes para resolver desafios tecnol
 
 ## Technologies
 
-- UI Design com Figma
+- UI Design - Figma
 - Frontend - HTML, JavaScript/TypeScript, React/Next.js, Tailwind CSS/CSS3
 - Backend - Node.js, Express, PostgreSQL/SQLServer, MongoDB
 - Tools - Git/Github, Docker, Postman, CI/CD
