@@ -1,9 +1,10 @@
 # <a href="https://www.linkedin.com/in/albertoaraujodev/">Alberto Araujo</a>
 
+Full Stack Developer | UI/UX Enthusiast | Passionate about Teaching
+
 ## About Me
 
-Apaixonado por tecnologia e Bacharel em Sistemas de Informação, atuo na área de desenvolvimento, 
-focado em criar soluções inovadoras e eficientes para resolver desafios tecnológicos. <br />
+Passionate about technology and holding a Bachelor's degree in Information Systems, I work in the development field, focused on creating innovative and efficient solutions to solve technological challenges. <br />
 
 ## Technologies
 
