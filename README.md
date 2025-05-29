@@ -18,6 +18,7 @@ focado em criar soluções inovadoras e eficientes para resolver desafios tecnol
 
 ## Contact Me
 
+- <a href="https://albertoaraujo-dev.github.io/portfolio/">Portfolio</a>
 - <a href="https://www.linkedin.com/in/albertoaraujodev/">Linkedin</a>
 - <a href="mailto:albertoaraujo.dev@gmail.com">E-mail</a>
 </div>
