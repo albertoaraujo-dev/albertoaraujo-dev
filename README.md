@@ -15,7 +15,7 @@ Passionate about technology and holding a Bachelor's degree in Information Syste
 
 **Languages and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,postgres,mongodb,git,github,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,py,django,postgres,mongodb,git,github,docker,postman)](https://skillicons.dev)
 
 ## Contact Me
 
