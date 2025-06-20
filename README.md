@@ -5,17 +5,18 @@ Full Stack Developer | UI/UX Enthusiast | Passionate about Teaching
 ## About Me
 
 Passionate about technology and holding a Bachelor's degree in Information Systems, I work in the development field, focused on creating innovative and efficient solutions to solve technological challenges. <br />
+Passionate about React/Node and currently exploring the Django/HTMX stack.<br />
 
 ## Technologies
 
 - UI Design - Figma
-- Frontend - HTML, JavaScript/TypeScript, React/Next.js, Tailwind CSS/CSS3
-- Backend - Node.js, Express, PostgreSQL/SQLServer, MongoDB
+- Frontend - HTML, JavaScript/TypeScript, React/Next.js, HTMX, Tailwind CSS/CSS3
+- Backend - Node.js, Express, Django, PostgreSQL/SQLServer, MongoDB
 - Tools - Git/Github, Docker, Postman, CI/CD
 
 **Languages and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,py,django,postgres,mongodb,git,github,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,htmx,html,css,nodejs,express,py,django,postgres,mongodb,git,github,docker,postman)](https://skillicons.dev)
 
 ## Contact Me
 
